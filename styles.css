@@ -1,0 +1,12 @@
+#textEditor {
+    margin-bottom: 17px;
+    background-color: rgb(213, 243, 233);
+    width: 500;
+    height: 300;
+}
+
+#outputArea {
+    background-color: rgba(250, 243, 243, 0.959);
+    width: 400;
+    height: 200;
+}
